@@ -35,6 +35,8 @@ Publish the website in the given URL.
 
 ## DESIGN:
 
+Figma
+
 ## PROGRAM :
 ```
 /* Home Page */
